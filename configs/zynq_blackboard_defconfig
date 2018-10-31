@@ -24,7 +24,7 @@ CONFIG_SYS_CPU="armv7"
 CONFIG_SYS_SOC="zynq"
 CONFIG_SYS_VENDOR="xilinx"
 CONFIG_SYS_BOARD="zynq"
-CONFIG_SYS_CONFIG_NAME="zynq_navy_zybo"
+CONFIG_SYS_CONFIG_NAME="zynq_blackboard"
 
 #
 # ARM architecture
@@ -189,7 +189,7 @@ CONFIG_MMC=y
 #
 # CONFIG_DEBUG_LL is not set
 CONFIG_SYS_TEXT_BASE=0x4000000
-CONFIG_DEFAULT_DEVICE_TREE="zynq-navy-zybo"
+CONFIG_DEFAULT_DEVICE_TREE="zynq-blackboard"
 CONFIG_SMBIOS_PRODUCT_NAME="zynq"
 # CONFIG_AHCI is not set
 
