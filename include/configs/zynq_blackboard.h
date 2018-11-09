@@ -1,7 +1,7 @@
 /*
  * (C) Copyright 2012 Xilinx
  * (C) Copyright 2014 Digilent Inc.
- * (C) Copyright 2014 Real Digital
+ * (C) Copyright 2018 Real Digital
  *
  * Configuration for Zynq Development Board - Blackboard
  * See zynq-common.h for Zynq common configs
