@@ -255,7 +255,7 @@
 			"run uenvcmd; " \
 		"fi\0" \
 	"sdboot=mmcinfo && " \
-		"echo Booting Xillinux... && " \
+		"echo Booting Linux... && " \
 		"fatload mmc 0 0x100000 ${bitstream_image} && " \
 		"fpga loadb 0 0x100000 ${filesize} && " \
 		"fatload mmc 0 0x3000000 ${kernel_image} && " \
